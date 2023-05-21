@@ -9,7 +9,7 @@ export default function Copyright() {
       <Typography variant='body2' color='textSecondary' align='center'>
         {'Copyright © '}
         <Link color='inherit' href='#'>
-          Mahip Adhikari
+        Basanta Bohara
         </Link>{' '}
         {new Date().getFullYear()}
         {'.'}
